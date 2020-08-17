@@ -1,0 +1,21 @@
+{
+  "adminPanel": {
+    "username": "admin@admin.com",
+    "password": "Square@123"
+  },
+  "GOOGLE_CLIENTID": "655558359757-3ka612ubjk1vktnp83tndqvr72di4jnd.apps.googleusercontent.com",
+  "GOOGLE_CLIENTSECRET": "YtS2KtoAEOlu5wdwSQNz7SIk",
+  "GOOGLE_CLIENTID_ANDROID": "655558359757-36jc1ejknk6pb0utdp7300ej7h2a9t46.apps.googleusercontent.com",
+  "FACEBOOK_CLIENTID": "653935712061637",
+  "FACEBOOK_CLIENTSECRET": "a3c62896623994aad941d72fcd28e0eb",
+
+  "development": {
+    "MONGODB_URI": "mongodb://localhost:27017/PCBdb-dev"
+  },
+  "staging": {
+    "MONGODB_URI": "mongodb://localhost:27017/PCBdb-staging"
+  },
+  "production": {
+    "MONGODB_URI": "mongodb://localhost:27017/PCBdb-prod"
+  }
+}
